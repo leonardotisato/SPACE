@@ -1,4 +1,4 @@
-# Bayesian Statistics Project
+# SPACE: Bayesian SPatial Analysis of Childcare and Employment
 This repository contains the final project developed for the **Bayesian Statistics** course at **Politecnico di Milano (PoliMi)**, taught by **Prof. Alessandra Guglielmi**, for the 2025-26 academic year. 
 
 This project was graded 30/30 (1st ex aequo).
